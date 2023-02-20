@@ -1,0 +1,37 @@
+[
+    {
+        "title": "The Power of Faith",
+        "speaker": "Pastor John Smith",
+        "date": "2022-01-01",
+        "category": "Faith",
+        "video_url": "https://www.youtube.com/watch?v=abc123"
+    },
+    {
+        "title": "The Importance of Love",
+        "speaker": "Reverend Mary Johnson",
+        "date": "2022-02-01",
+        "category": "Love",
+        "video_url": "https://www.youtube.com/watch?v=def456"
+    },
+    {
+        "title": "Overcoming Temptation",
+        "speaker": "Pastor John Smith",
+        "date": "2022-03-01",
+        "category": "Temptation",
+        "video_url": "https://www.youtube.com/watch?v=ghi789"
+    },
+    {
+        "title": "Living a Purposeful Life",
+        "speaker": "Reverend Mary Johnson",
+        "date": "2022-04-01",
+        "category": "Purpose",
+        "video_url": "https://www.youtube.com/watch?v=jkl012"
+    },
+    {
+        "title": "Finding Inner Peace",
+        "speaker": "Pastor John Smith",
+        "date": "2022-05-01",
+        "category": "Peace",
+        "video_url": "https://www.youtube.com/watch?v=mno345"
+    }
+]
